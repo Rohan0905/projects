@@ -1,0 +1,4 @@
+export const LOAD_PRODUCT = 'LOAD_PRODUCT';
+export const UPDATE_PRODUCT = 'UPDATE_PRODUCT';
+
+
